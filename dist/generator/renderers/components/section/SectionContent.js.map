@@ -1,0 +1,1 @@
+{"version":3,"file":"SectionContent.js","sourceRoot":"","sources":["../../../../../src/generator/renderers/components/section/SectionContent.tsx"],"names":[],"mappings":";;;;;AAAA,kDAA0B;AAM1B,SAAS,cAAc,CAAC,EAAE,QAAQ,EAAuB;IACvD,OAAO,CACL,uCACE,KAAK,EAAE;YACL,OAAO,EAAE,MAAM;YACf,aAAa,EAAE,QAAQ;YACvB,KAAK,EAAE,MAAM;SACd,IAEA,QAAQ,CACL,CACP,CAAC;AACJ,CAAC;AAED,kBAAe,cAAc,CAAC"}
